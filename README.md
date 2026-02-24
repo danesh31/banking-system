@@ -194,12 +194,4 @@ Clean separation of responsibilities with layered architecture.
 
 ---
 
-## 📞 Contact
-
-**Vishnu C**  
-vishnuc234567@gmail.com  
-
-Project Link:  
-https://github.com/Vishnu-C-10/online-banking-system
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
